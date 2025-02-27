@@ -2,7 +2,7 @@ import requests
 
 def fetch_github_topics(query):
     url = f"https://api.github.com/search/repositories?q={query}&sort=stars"
-    headers = {"Authorization": "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"}  # Replace with your GitHub token
+    headers = {"Authorization": "YOUR GITHUB API"}  # Replace with your GitHub token
     response = requests.get(url, headers=headers)
     
     # Check for a successful response
