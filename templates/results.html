@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendations</title>
+</head>
+<body>
+    <h1>Your PhD Recommendations</h1>
+
+    <h2>Semantic Scholar</h2>
+    <ul>
+        {% if recommendations.semantic_scholar %}
+            {% for paper in recommendations.semantic_scholar %}
+                <li>
+                    <strong>{{ paper.title }}</strong> - {{ paper.summary }} <br>
+                    <em>Authors: {{ paper.authors | join(', ') }}</em><br>
+                    <em>Published: {{ paper.published }}</em>
+                </li>
+            {% endfor %}
+        {% else %}
+            <li>No recommendations found.</li>
+        {% endif %}
+    </ul>
+
+    <h2>arXiv</h2>
+    <ul>
+        {% if recommendations.arxiv %}
+            {% for paper in recommendations.arxiv %}
+                <li>
+                    <strong>{{ paper.title }}</strong> - {{ paper.summary }} <br>
+                    <em>Authors: {{ paper.authors | join(', ') }}</em><br>
+                    <em>Published: {{ paper.published }}</em>
+                </li>
+            {% endfor %}
+        {% else %}
+            <li>No recommendations found.</li>
+        {% endif %}
+    </ul>
+
+    <h2>Kaggle Datasets</h2>
+    <ul>
+        {% if recommendations.kaggle %}
+            {% for dataset in recommendations.kaggle %}
+                <li>
+                    <strong>{{ dataset.title }}</strong> - <a href="{{ dataset.url }}">View Dataset</a>
+                </li>
+            {% endfor %}
+        {% else %}
+            <li>No datasets found.</li>
+        {% endif %}
+    </ul>
+
+    <h2>GitHub Repositories</h2>
+    <ul>
+        {% if recommendations.github %}
+            {% for repo in recommendations.github %}
+                <li>
+                    <strong>{{ repo.name }}</strong> - {{ repo.description }} <br>
+                    <a href="{{ repo.url }}">View Repository</a> | Stars: {{ repo.stars }}
+                </li>
+            {% endfor %}
+        {% else %}
+            <li>No repositories found.</li>
+        {% endif %}
+    </ul>
+</body>
+</html>

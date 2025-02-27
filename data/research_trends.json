@@ -1,0 +1,191 @@
+{
+    "semantic_scholar": [],
+    "arxiv": [
+        {
+            "title": "Machine Learning Applications In Healthcare: The State Of Knowledge and\n  Future Directions",
+            "summary": "Detection of easily missed hidden patterns with fast processing power makes\nmachine learning (ML) indispensable to today's healthcare system. Though many\nML applications have already been discovered and many are still under\ninvestigation, only a few have been adopted by current healthcare systems. As a\nresult, there exists an enormous opportunity in healthcare system for ML but\ndistributed information, scarcity of properly arranged and easily explainable\ndocumentation in related sector are major impede which are making ML\napplications difficult to healthcare professionals. This study aimed to gather\nML applications in different areas of healthcare concisely and more effectively\nso that necessary information can be accessed immediately with relevant\nreferences. We divided our study into five major groups: community level work,\nrisk management/ preventive care, healthcare operation management, remote care,\nand early detection. Dividing these groups into subgroups, we provided relevant\nreferences with description in tabular form for quick access. Our objective is\nto inform people about ML applicability in healthcare industry, reduce the\nknowledge gap of clinicians about the ML applications and motivate healthcare\nprofessionals towards more machine learning based healthcare system.",
+            "authors": [
+                "Mrinmoy Roy",
+                "Sarwar J. Minar",
+                "Porarthi Dhar",
+                "A T M Omor Faruq"
+            ],
+            "published": "2023-07-26T09:34:34Z"
+        },
+        {
+            "title": "Probabilistic Machine Learning for Healthcare",
+            "summary": "Machine learning can be used to make sense of healthcare data. Probabilistic\nmachine learning models help provide a complete picture of observed data in\nhealthcare. In this review, we examine how probabilistic machine learning can\nadvance healthcare. We consider challenges in the predictive model building\npipeline where probabilistic models can be beneficial including calibration and\nmissing data. Beyond predictive models, we also investigate the utility of\nprobabilistic machine learning models in phenotyping, in generative models for\nclinical use cases, and in reinforcement learning.",
+            "authors": [
+                "Irene Y. Chen",
+                "Shalmali Joshi",
+                "Marzyeh Ghassemi",
+                "Rajesh Ranganath"
+            ],
+            "published": "2020-09-23T12:14:05Z"
+        },
+        {
+            "title": "Reliable and Resilient AI and IoT-based Personalised Healthcare\n  Services: A Survey",
+            "summary": "Recent technological and economic developments have transformed the\nhealthcare sector towards more personalized and IoT-based healthcare services.\nThese services are realized through control and monitoring applications that\nare typically developed using artificial intelligence/machine learning-based\nalgorithms, which play a significant role in highlighting the efficiency of\ntraditional healthcare systems. Current personalized healthcare services are\ndedicated to a specific environment to support technological personalization.\nHowever, they are unable to consider different interrelated health conditions,\nleading to inappropriate diagnoses and affecting sustainability and the\nlong-term health of patients. To this end, current Healthcare 5.0 technology\nhas evolved that supersede previous healthcare technologies. The goal of\nhealthcare 5.0 is to achieve an autonomous healthcare service, that takes into\naccount the interdependent effect of different health conditions of a patient.\nThis paper conducts a comprehensive survey on personalized healthcare services.\nIn particular, we first present an overview of key requirements of\ncomprehensive personalized healthcare services in modern healthcare Internet of\nThings (HIoT), including the definition of personalization and an example use\ncase scenario as a representative for modern HIoT. Second, we explored a\nfundamental three-layer architecture for IoT-based healthcare systems using AI\nand non-AI-based approaches, considering key requirements for CPHS followed by\ntheir strengths and weaknesses in the frame of personalized healthcare\nservices. Third, we highlighted different security threats against each layer\nof IoT architecture along with the possible AI and non-AI-based solutions.\nFinally, we propose a methodology to develop reliable, resilient, and\npersonalized healthcare services that address the identified weaknesses of\nexisting approaches.",
+            "authors": [
+                "Najma Taimoor",
+                "Semeen Rehman"
+            ],
+            "published": "2022-08-29T23:14:02Z"
+        },
+        {
+            "title": "Assessing Fairness in Classification Parity of Machine Learning Models\n  in Healthcare",
+            "summary": "Fairness in AI and machine learning systems has become a fundamental problem\nin the accountability of AI systems. While the need for accountability of AI\nmodels is near ubiquitous, healthcare in particular is a challenging field\nwhere accountability of such systems takes upon additional importance, as\ndecisions in healthcare can have life altering consequences. In this paper we\npresent preliminary results on fairness in the context of classification parity\nin healthcare. We also present some exploratory methods to improve fairness and\nchoosing appropriate classification algorithms in the context of healthcare.",
+            "authors": [
+                "Ming Yuan",
+                "Vikas Kumar",
+                "Muhammad Aurangzeb Ahmad",
+                "Ankur Teredesai"
+            ],
+            "published": "2021-02-07T04:46:27Z"
+        },
+        {
+            "title": "Towards Smart Healthcare: Challenges and Opportunities in IoT and ML",
+            "summary": "The COVID-19 pandemic and other ongoing health crises have underscored the\nneed for prompt healthcare services worldwide. The traditional healthcare\nsystem, centered around hospitals and clinics, has proven inadequate in the\nface of such challenges. Intelligent wearable devices, a key part of modern\nhealthcare, leverage Internet of Things technology to collect extensive data\nrelated to the environment as well as psychological, behavioral, and physical\nhealth. However, managing the substantial data generated by these wearables and\nother IoT devices in healthcare poses a significant challenge, potentially\nimpeding decision-making processes. Recent interest has grown in applying data\nanalytics for extracting information, gaining insights, and making predictions.\nAdditionally, machine learning, known for addressing various big data and\nnetworking challenges, has seen increased implementation to enhance IoT systems\nin healthcare. This chapter focuses exclusively on exploring the hurdles\nencountered when integrating ML methods into the IoT healthcare sector. It\noffers a comprehensive summary of current research challenges and potential\nopportunities, categorized into three scenarios: IoT-based, ML-based, and the\nimplementation of machine learning methodologies in the IoT-based healthcare\nindustry. This compilation will assist future researchers, healthcare\nprofessionals, and government agencies by offering valuable insights into\nrecent smart healthcare advancements.",
+            "authors": [
+                "Munshi Saifuzzaman",
+                "Tajkia Nuri Ananna"
+            ],
+            "published": "2023-12-09T10:45:44Z"
+        }
+    ],
+    "kaggle": [
+        {
+            "title": "Healthcare Dataset ",
+            "url": "https://www.kaggle.com/prasad22/healthcare-dataset",
+            "description": ""
+        },
+        {
+            "title": "Diabetes prediction dataset",
+            "url": "https://www.kaggle.com/iammustafatz/diabetes-prediction-dataset",
+            "description": ""
+        },
+        {
+            "title": "Autism Screening on Adults",
+            "url": "https://www.kaggle.com/andrewmvd/autism-screening-on-adults",
+            "description": ""
+        },
+        {
+            "title": "Cardio Health Risk Assessment Dataset",
+            "url": "https://www.kaggle.com/kapoorprakhar/cardio-health-risk-assessment-dataset",
+            "description": ""
+        },
+        {
+            "title": "Indicators of Heart Disease (2022 UPDATE)",
+            "url": "https://www.kaggle.com/kamilpytlak/personal-key-indicators-of-heart-disease",
+            "description": ""
+        },
+        {
+            "title": "Healthcare Appointment Dataset",
+            "url": "https://www.kaggle.com/wajahat1064/healthcare-appointment-dataset",
+            "description": ""
+        },
+        {
+            "title": "Diabetes Dataset",
+            "url": "https://www.kaggle.com/hasibur013/diabetes-dataset",
+            "description": ""
+        },
+        {
+            "title": "Open Asteroid Dataset",
+            "url": "https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter",
+            "description": ""
+        },
+        {
+            "title": "200+ Financial Indicators of US stocks (2014-2018)",
+            "url": "https://www.kaggle.com/cnic92/200-financial-indicators-of-us-stocks-20142018",
+            "description": ""
+        },
+        {
+            "title": "\ud83d\udd2cMelanoma Cancer Image Dataset",
+            "url": "https://www.kaggle.com/bhaveshmittal/melanoma-cancer-dataset",
+            "description": ""
+        },
+        {
+            "title": " in-vehicle coupon recommendation",
+            "url": "https://www.kaggle.com/mathurinache/invehicle-coupon-recommendation",
+            "description": ""
+        },
+        {
+            "title": "Osteoporosis Risk Prediction",
+            "url": "https://www.kaggle.com/amitvkulkarni/lifestyle-factors-influencing-osteoporosis",
+            "description": ""
+        },
+        {
+            "title": "Food Nutrition Dataset",
+            "url": "https://www.kaggle.com/utsavdey1410/food-nutrition-dataset",
+            "description": ""
+        },
+        {
+            "title": "Parkinson's Disease",
+            "url": "https://www.kaggle.com/shreyadutta1116/parkinsons-disease",
+            "description": ""
+        },
+        {
+            "title": "COVID-19 Dataset",
+            "url": "https://www.kaggle.com/meirnizri/covid19-dataset",
+            "description": ""
+        },
+        {
+            "title": "Breast Cancer Diagnosis Dataset - Wisconsin State",
+            "url": "https://www.kaggle.com/saurabhbadole/breast-cancer-wisconsin-state",
+            "description": ""
+        },
+        {
+            "title": "\ud83d\udcca Predict Liver Disease: 1700 Records Dataset",
+            "url": "https://www.kaggle.com/rabieelkharoua/predict-liver-disease-1700-records-dataset",
+            "description": ""
+        },
+        {
+            "title": "Gestational Diabetes",
+            "url": "https://www.kaggle.com/rasooljader/gestational-diabetes",
+            "description": ""
+        },
+        {
+            "title": "Countries Life Expectancy",
+            "url": "https://www.kaggle.com/amirhosseinmirzaie/countries-life-expectancy",
+            "description": ""
+        },
+        {
+            "title": "Breast Cancer Dataset [Wisconsin Diagnostic UCI]",
+            "url": "https://www.kaggle.com/abhinavmangalore/breast-cancer-dataset-wisconsin-diagnostic-uci",
+            "description": ""
+        }
+    ],
+    "github": [
+        {
+            "name": "awesome-multimodal-ml",
+            "description": "Reading list for research topics in multimodal machine learning",
+            "url": "https://github.com/pliang279/awesome-multimodal-ml",
+            "stars": 6035
+        },
+        {
+            "name": "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+            "description": "A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.",
+            "url": "https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+            "stars": 3755
+        },
+        {
+            "name": "PyPOTS",
+            "description": "A Python toolkit/library for reality-centric machine/deep learning and data mining on partially-observed time series, including SOTA neural network models for scientific analysis tasks of imputation/classification/clustering/forecasting/anomaly detection/cleaning on incomplete industrial (irregularly-sampled) multivariate TS with NaN missing values",
+            "url": "https://github.com/WenjieDu/PyPOTS",
+            "stars": 1060
+        },
+        {
+            "name": "InnerEye-DeepLearning",
+            "description": "Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning",
+            "url": "https://github.com/microsoft/InnerEye-DeepLearning",
+            "stars": 559
+        },
+        {
+            "name": "mlforhealthlabpub",
+            "description": "Machine Learning and Artificial Intelligence for Medicine. ",
+            "url": "https://github.com/vanderschaarlab/mlforhealthlabpub",
+            "stars": 426
+        }
+    ],
+    "conferences": []
+}

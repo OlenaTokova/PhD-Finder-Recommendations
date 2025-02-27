@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Dr. Smith",
+        "field": "Machine Learning",
+        "expertise": ["NLP", "Healthcare Applications"]
+    },
+    {
+        "name": "Dr. Green",
+        "field": "Biomedicine",
+        "expertise": ["Gene Editing", "Regenerative Medicine"]
+    },
+    {
+        "name": "Dr. Lee",
+        "field": "Physics",
+        "expertise": ["Quantum Computing", "Cryptography"]
+    },
+    {
+        "name": "Dr. Brown",
+        "field": "Environmental Science",
+        "expertise": ["Renewable Energy", "Urban Planning"]
+    }
+]
